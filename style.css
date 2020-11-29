@@ -1,6 +1,6 @@
 p{
     color: blue;
-    background-color: aqua;
+    background-color: blue;
 }
 
 p:first-of-type{
@@ -9,4 +9,5 @@ p:first-of-type{
 
 .container{
     border: 2px solid green;
+    font-size: 50px;
 }
